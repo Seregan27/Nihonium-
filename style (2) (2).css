@@ -1,0 +1,41 @@
+.h1{
+    text-align: center;
+}
+body {
+ background-color: rgb(238, 154, 98);
+
+  }
+.circle{
+    width: 800px;
+    height: 285px;
+
+    
+    background-color:rgb(255, 255, 255);
+    border-radius: 25px
+}
+.circle1{
+    width: 675px;
+    height: 55px;
+
+    
+    background-color:rgb(255, 255, 255);
+    border-radius: 17px
+}
+.circle2{
+    width: 675px;
+    height: 175px;
+
+    
+    background-color:rgb(255, 255, 255);
+    border-radius: 17px
+}
+
+.imgsize{
+    padding-left: 800px;
+}
+.img2{
+    padding: 30px;
+}
+.img3{
+    padding-left:  800px; ;
+}
