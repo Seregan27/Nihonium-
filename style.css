@@ -2,21 +2,8 @@
     text-align: center;
 }
 body {
-    background: linear-gradient(149deg, red 0%,rgba(115,53,134,1) 42%, rgb(29, 41, 156) 72%,  rgb(6, 6, 179)  100%);
-    animation: gradient 10s infinite linear;
-    background-size: 800%; 
-    height: 1270px;
-  }
-  @keyframes gradient {
-    0% {
-        background-position: 80% 0%;
-    }
-    50% {
-        background-position: 20% 100%;
-    }
-    100% {
-        background-position: 80% 0%;
-    }
+    background:linear-gradient(red, rgb(6, 6, 179));
+    height: 2173px;
   }
 .circle{
     width: 800px;
@@ -52,3 +39,8 @@ body {
 .img3{
     padding-left:  800px; ;
 }
+a {
+    text-decoration:none;
+    color: aliceblue;
+    font-size: 14px;
+  }
