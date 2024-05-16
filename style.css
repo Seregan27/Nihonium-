@@ -9,7 +9,8 @@ body {
     width: 800px;
     height: 285px;
 
-    
+    margin-left: auto;
+    margin-right: auto;
     background-color:rgb(255, 255, 255);
     border-radius: 25px
 }
@@ -17,7 +18,8 @@ body {
     width: 675px;
     height: 55px;
 
-    
+    margin-left: auto;
+    margin-right: auto;
     background-color:rgb(255, 255, 255);
     border-radius: 17px
 }
@@ -25,22 +27,21 @@ body {
     width: 675px;
     height: 175px;
 
-    
+    margin-left: auto;
+    margin-right: auto;
     background-color:rgb(255, 255, 255);
     border-radius: 17px
 }
 
 .imgsize{
-    padding-left: 800px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .img2{
-    padding: 30px;
+    margin-left: auto;
+    margin-right: auto;
 }
 .img3{
-    padding-left:  800px; ;
+    margin-left: auto;
+    margin-right: auto;
 }
-a {
-    text-decoration:none;
-    color: aliceblue;
-    font-size: 14px;
-  }
